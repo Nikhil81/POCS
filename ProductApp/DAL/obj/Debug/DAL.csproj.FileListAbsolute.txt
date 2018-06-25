@@ -1,0 +1,10 @@
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\DAL.dll.config
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\DAL.dll
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\DAL.pdb
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\EntityFramework.dll
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\EntityFramework.xml
+D:\Nikhil\Training1\ProductApp\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Nikhil\Training1\ProductApp\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\ProductApp\DAL\obj\Debug\DAL.dll
+D:\Nikhil\Training1\ProductApp\DAL\obj\Debug\DAL.pdb

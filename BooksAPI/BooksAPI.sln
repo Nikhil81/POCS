@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooksAPI", "BooksAPI\BooksAPI.csproj", "{BEA14100-6E64-4E5F-BEDA-2E0AC49BAEC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqExample", "LinqExample\LinqExample.csproj", "{178235F8-2DA6-4659-95CF-CAC7DC55440A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinkedList", "LinkedList\LinkedList.csproj", "{647BE575-4E06-4491-921F-44234191EE87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA14100-6E64-4E5F-BEDA-2E0AC49BAEC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA14100-6E64-4E5F-BEDA-2E0AC49BAEC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA14100-6E64-4E5F-BEDA-2E0AC49BAEC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA14100-6E64-4E5F-BEDA-2E0AC49BAEC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{178235F8-2DA6-4659-95CF-CAC7DC55440A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{178235F8-2DA6-4659-95CF-CAC7DC55440A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{178235F8-2DA6-4659-95CF-CAC7DC55440A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{178235F8-2DA6-4659-95CF-CAC7DC55440A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{647BE575-4E06-4491-921F-44234191EE87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{647BE575-4E06-4491-921F-44234191EE87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{647BE575-4E06-4491-921F-44234191EE87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{647BE575-4E06-4491-921F-44234191EE87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

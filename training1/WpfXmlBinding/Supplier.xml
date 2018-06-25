@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<suppliers>
+  <suplier SplNo ="123">
+    <SpplierName>Nikhil</SpplierName>
+    <SpplierCode>111</SpplierCode>
+  </suplier>
+  <suplier SplNo ="124">
+    <SpplierName>Kumar</SpplierName>
+    <SpplierCode>112</SpplierCode>
+  </suplier>
+  <suplier SplNo ="125">
+    <SpplierName>Verma</SpplierName>
+    <SpplierCode>113</SpplierCode>
+  </suplier>
+</suppliers>

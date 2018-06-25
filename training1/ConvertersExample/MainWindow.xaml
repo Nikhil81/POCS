@@ -1,0 +1,17 @@
+﻿<Window x:Class="ConvertersExample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConvertersExample"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel>
+        <StackPanel.Resources>
+            <local:WordToColorConverter x:Key="word2Color"></local:WordToColorConverter>
+        </StackPanel.Resources>
+        <TextBox Height="100" Width="200" x:Name="txtColor"></TextBox>
+        <Rectangle Height="150" x:Name="rect1" Width="150" Fill="{Binding ElementName=txtColor,Path=Text,Converter={StaticResource word2Color},Mode=OneWayToSource}"></Rectangle>
+        <Button Name="btn1" Content="change to red" Height="100" Width="100" Click="btn1_Click"></Button>
+    </StackPanel>
+</Window>

@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\ProjectEular\Program4\bin\Debug\Program4.exe.config
+D:\Nikhil\Training1\ProjectEular\Program4\bin\Debug\Program4.exe
+D:\Nikhil\Training1\ProjectEular\Program4\bin\Debug\Program4.pdb
+D:\Nikhil\Training1\ProjectEular\Program4\obj\Debug\Program4.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\ProjectEular\Program4\obj\Debug\Program4.exe
+D:\Nikhil\Training1\ProjectEular\Program4\obj\Debug\Program4.pdb

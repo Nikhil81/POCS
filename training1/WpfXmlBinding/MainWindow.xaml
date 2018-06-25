@@ -1,0 +1,46 @@
+﻿<Window x:Class="WpfXmlBinding.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfXmlBinding"
+        mc:Ignorable="d"
+        xmlns:empLib="clr-namespace:Employee;assembly=Employee"
+        Title="MainWindow" Height="350" Width="525">
+    <Window.Resources>
+        <ObjectDataProvider x:Key="emps" ObjectType="empLib:Employees"></ObjectDataProvider>
+        <!--External XML-->
+        <!--<XmlDataProvider x:Key="supls" Source="Supplier.xml"></XmlDataProvider>-->
+        <!--Internal XML-->
+        <!--<XmlDataProvider x:Key="supls">
+            <x:XData>
+            <suppliers xmlns="">
+                <suplier SplNo ="123">
+                    <SpplierName>Nikhil Kumar</SpplierName>
+                    <SpplierCode>111</SpplierCode>
+                </suplier>
+                <suplier SplNo ="124">
+                    <SpplierName>Kumar</SpplierName>
+                    <SpplierCode>112</SpplierCode>
+                </suplier>
+                <suplier SplNo ="125">
+                    <SpplierName>Verma</SpplierName>
+                    <SpplierCode>113</SpplierCode>
+                </suplier>
+            </suppliers>
+            </x:XData>
+        </XmlDataProvider>-->
+    </Window.Resources>
+    <Grid>
+        <!--<DataGrid x:Name="dataGrid" HorizontalAlignment="Left" Margin="21,10,0,0" VerticalAlignment="Top" Height="200" Width="150" AutoGenerateColumns="True"
+                  ItemsSource="{Binding Source={StaticResource supls},XPath=suppliers/suplier}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding XPath=@SplNo}" Header="Supl #"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding XPath=SpplierName}" Header="Supl Name"></DataGridTextColumn>
+                <DataGridTextColumn Binding="{Binding XPath=SpplierCode}" Header="Supl #"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>-->
+        <DataGrid x:Name="dataGrid" ItemsSource="{Binding Source={StaticResource emps}}"></DataGrid>
+
+    </Grid>
+</Window>

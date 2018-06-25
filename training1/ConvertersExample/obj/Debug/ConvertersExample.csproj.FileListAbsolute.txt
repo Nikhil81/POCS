@@ -1,0 +1,15 @@
+D:\Nikhil\Training1\training1\ConvertersExample\bin\Debug\ConvertersExample.exe.config
+D:\Nikhil\Training1\training1\ConvertersExample\bin\Debug\ConvertersExample.exe
+D:\Nikhil\Training1\training1\ConvertersExample\bin\Debug\ConvertersExample.pdb
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\MainWindow.g.cs
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\App.g.cs
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample_MarkupCompile.cache
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample_MarkupCompile.lref
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\MainWindow.baml
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample.g.resources
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample.Properties.Resources.resources
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample.csproj.GenerateResource.Cache
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample.exe
+D:\Nikhil\Training1\training1\ConvertersExample\obj\Debug\ConvertersExample.pdb

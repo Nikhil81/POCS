@@ -1,0 +1,16 @@
+D:\Nikhil\Training1\training1\WpfXmlBinding\bin\Debug\WpfXmlBinding.exe.config
+D:\Nikhil\Training1\training1\WpfXmlBinding\bin\Debug\WpfXmlBinding.exe
+D:\Nikhil\Training1\training1\WpfXmlBinding\bin\Debug\WpfXmlBinding.pdb
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\MainWindow.g.cs
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\App.g.cs
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding_MarkupCompile.cache
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding_MarkupCompile.lref
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\MainWindow.baml
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding.g.resources
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding.Properties.Resources.resources
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding.csproj.GenerateResource.Cache
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding.exe
+D:\Nikhil\Training1\training1\WpfXmlBinding\obj\Debug\WpfXmlBinding.pdb
+D:\Nikhil\Training1\training1\WpfXmlBinding\bin\Debug\Employee.dll
+D:\Nikhil\Training1\training1\WpfXmlBinding\bin\Debug\Employee.pdb

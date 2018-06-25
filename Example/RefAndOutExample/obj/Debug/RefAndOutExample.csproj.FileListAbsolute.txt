@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\Example\RefAndOutExample\obj\Debug\RefAndOutExample.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\Example\RefAndOutExample\bin\Debug\RefAndOutExample.exe.config
+D:\Nikhil\Training1\Example\RefAndOutExample\bin\Debug\RefAndOutExample.exe
+D:\Nikhil\Training1\Example\RefAndOutExample\bin\Debug\RefAndOutExample.pdb
+D:\Nikhil\Training1\Example\RefAndOutExample\obj\Debug\RefAndOutExample.exe
+D:\Nikhil\Training1\Example\RefAndOutExample\obj\Debug\RefAndOutExample.pdb

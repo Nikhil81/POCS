@@ -1,0 +1,16 @@
+D:\Nikhil\Training1\training1\training1\bin\Debug\training1.exe.config
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\training1\training1\obj\Debug\App.g.cs
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1_MarkupCompile.cache
+D:\Nikhil\Training1\training1\training1\bin\Debug\training1.exe
+D:\Nikhil\Training1\training1\training1\bin\Debug\training1.pdb
+D:\Nikhil\Training1\training1\training1\obj\Debug\MainWindow.g.cs
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1_MarkupCompile.lref
+D:\Nikhil\Training1\training1\training1\obj\Debug\MainWindow.baml
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1.g.resources
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1.Properties.Resources.resources
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1.csproj.GenerateResource.Cache
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1.exe
+D:\Nikhil\Training1\training1\training1\obj\Debug\training1.pdb
+D:\Nikhil\Training1\training1\training1\bin\Debug\Employee.dll
+D:\Nikhil\Training1\training1\training1\bin\Debug\Employee.pdb
