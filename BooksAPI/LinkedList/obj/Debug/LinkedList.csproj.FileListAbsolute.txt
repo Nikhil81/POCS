@@ -4,3 +4,9 @@ D:\Nikhil\Training1\BooksAPI\LinkedList\bin\Debug\LinkedList.pdb
 D:\Nikhil\Training1\BooksAPI\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache
 D:\Nikhil\Training1\BooksAPI\LinkedList\obj\Debug\LinkedList.exe
 D:\Nikhil\Training1\BooksAPI\LinkedList\obj\Debug\LinkedList.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedList\bin\Debug\LinkedList.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedList\obj\Debug\LinkedList.exe
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedList\obj\Debug\LinkedList.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedList\bin\Debug\LinkedList.exe
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedList\bin\Debug\LinkedList.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedList\obj\Debug\LinkedList.csprojResolveAssemblyReference.cache

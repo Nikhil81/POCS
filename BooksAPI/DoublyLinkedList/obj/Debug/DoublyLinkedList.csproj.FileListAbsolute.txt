@@ -1,0 +1,5 @@
+D:\Nikhil\Training1\POCS\BooksAPI\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\DoublyLinkedList\bin\Debug\DoublyLinkedList.exe
+D:\Nikhil\Training1\POCS\BooksAPI\DoublyLinkedList\bin\Debug\DoublyLinkedList.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\DoublyLinkedList\obj\Debug\DoublyLinkedList.exe
+D:\Nikhil\Training1\POCS\BooksAPI\DoublyLinkedList\obj\Debug\DoublyLinkedList.pdb

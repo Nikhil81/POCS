@@ -138,5 +138,18 @@ namespace LinkedList
             PrintUsingRcurresion(head._next);
             Console.WriteLine(head.data);
         }
+
+        static void ReverseOfLinkedListUsingRecurrection(Node p)
+        {
+            if (p._next == null)
+            {
+                head = p;
+                return;
+            }
+            ReverseOfLinkedListUsingRecurrection(p);
+            Node temp = p._next;
+            temp._next = p;
+            p._next = null;
+        }
     }
 }
