@@ -49,8 +49,7 @@ namespace DoublyLinkedList
                 return;
             }
             newNode._next = head;
-            newNode._prev = null;
-            head._prev = null;
+           
             head = newNode;
         }
 

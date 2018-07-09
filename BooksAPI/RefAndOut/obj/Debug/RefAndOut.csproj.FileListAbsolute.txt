@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\POCS\BooksAPI\RefAndOut\bin\Debug\RefAndOut.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\RefAndOut\bin\Debug\RefAndOut.exe
+D:\Nikhil\Training1\POCS\BooksAPI\RefAndOut\bin\Debug\RefAndOut.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\RefAndOut\obj\Debug\RefAndOut.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\POCS\BooksAPI\RefAndOut\obj\Debug\RefAndOut.exe
+D:\Nikhil\Training1\POCS\BooksAPI\RefAndOut\obj\Debug\RefAndOut.pdb

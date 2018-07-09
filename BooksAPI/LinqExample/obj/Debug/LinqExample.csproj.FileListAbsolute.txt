@@ -4,3 +4,9 @@ D:\Nikhil\Training1\BooksAPI\LinqExample\bin\Debug\LinqExample.pdb
 D:\Nikhil\Training1\BooksAPI\LinqExample\obj\Debug\LinqExample.csprojResolveAssemblyReference.cache
 D:\Nikhil\Training1\BooksAPI\LinqExample\obj\Debug\LinqExample.exe
 D:\Nikhil\Training1\BooksAPI\LinqExample\obj\Debug\LinqExample.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\LinqExample\bin\Debug\LinqExample.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\LinqExample\bin\Debug\LinqExample.exe
+D:\Nikhil\Training1\POCS\BooksAPI\LinqExample\bin\Debug\LinqExample.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\LinqExample\obj\Debug\LinqExample.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\POCS\BooksAPI\LinqExample\obj\Debug\LinqExample.exe
+D:\Nikhil\Training1\POCS\BooksAPI\LinqExample\obj\Debug\LinqExample.pdb

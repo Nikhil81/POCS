@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedListImplementationOfStack\bin\Debug\LinkedListImplementationOfStack.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedListImplementationOfStack\bin\Debug\LinkedListImplementationOfStack.exe
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedListImplementationOfStack\bin\Debug\LinkedListImplementationOfStack.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedListImplementationOfStack\obj\Debug\LinkedListImplementationOfStack.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedListImplementationOfStack\obj\Debug\LinkedListImplementationOfStack.exe
+D:\Nikhil\Training1\POCS\BooksAPI\LinkedListImplementationOfStack\obj\Debug\LinkedListImplementationOfStack.pdb

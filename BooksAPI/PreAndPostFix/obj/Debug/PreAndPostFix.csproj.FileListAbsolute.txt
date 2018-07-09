@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\POCS\BooksAPI\PreAndPostFix\bin\Debug\PreAndPostFix.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\PreAndPostFix\bin\Debug\PreAndPostFix.exe
+D:\Nikhil\Training1\POCS\BooksAPI\PreAndPostFix\bin\Debug\PreAndPostFix.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\PreAndPostFix\obj\Debug\PreAndPostFix.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\POCS\BooksAPI\PreAndPostFix\obj\Debug\PreAndPostFix.exe
+D:\Nikhil\Training1\POCS\BooksAPI\PreAndPostFix\obj\Debug\PreAndPostFix.pdb

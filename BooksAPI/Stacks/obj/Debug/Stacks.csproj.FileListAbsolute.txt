@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\POCS\BooksAPI\Stacks\bin\Debug\Stacks.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\Stacks\bin\Debug\Stacks.exe
+D:\Nikhil\Training1\POCS\BooksAPI\Stacks\bin\Debug\Stacks.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\Stacks\obj\Debug\Stacks.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\POCS\BooksAPI\Stacks\obj\Debug\Stacks.exe
+D:\Nikhil\Training1\POCS\BooksAPI\Stacks\obj\Debug\Stacks.pdb

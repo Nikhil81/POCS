@@ -1,0 +1,6 @@
+D:\Nikhil\Training1\POCS\BooksAPI\ReverseOfStringusingStgack\bin\Debug\ReverseOfStringusingStgack.exe.config
+D:\Nikhil\Training1\POCS\BooksAPI\ReverseOfStringusingStgack\bin\Debug\ReverseOfStringusingStgack.exe
+D:\Nikhil\Training1\POCS\BooksAPI\ReverseOfStringusingStgack\bin\Debug\ReverseOfStringusingStgack.pdb
+D:\Nikhil\Training1\POCS\BooksAPI\ReverseOfStringusingStgack\obj\Debug\ReverseOfStringusingStgack.csprojResolveAssemblyReference.cache
+D:\Nikhil\Training1\POCS\BooksAPI\ReverseOfStringusingStgack\obj\Debug\ReverseOfStringusingStgack.exe
+D:\Nikhil\Training1\POCS\BooksAPI\ReverseOfStringusingStgack\obj\Debug\ReverseOfStringusingStgack.pdb
